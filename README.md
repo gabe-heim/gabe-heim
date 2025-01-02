@@ -43,6 +43,7 @@ The Terminator likes terminating things, much like the critical step of many dep
 #### Contact
 
 Email: gabe.heim@yahoo.com
+
 LinkedIn: https://www.linkedin.com/in/gabe-h-01450493/
 
 <!--
